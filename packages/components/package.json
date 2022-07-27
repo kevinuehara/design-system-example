@@ -63,6 +63,6 @@
   "dependencies": {
     "@design-system/tokens": "*",
     "styled-components": "^5.3.5",
-    "react-docgen-typescript": "ˆ2.2.2"
+    "react-docgen-typescript": "^2.2.2"
   }
 }
