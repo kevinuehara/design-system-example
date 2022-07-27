@@ -1,0 +1,25 @@
+{
+  "name": "@design-system/tokens",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Kevin Uehara <kevin.uehara@ifood.com.br>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+
+  "devDependencies": {
+    "typescript": "^4.2.0",
+    "prettier": "^2.0.4"
+  },
+
+  "scripts": {
+    "build": "tsc -b"
+  }
+}

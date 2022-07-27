@@ -1,0 +1,19 @@
+{
+  "name": "design-system",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build",
+    "start": "lerna run --parallel start",
+    "dev": "start-storybook -p 5555"
+  },
+  "devDependencies": {
+    "@storybook/addon-docs": "^6.5.9",
+    "@storybook/preset-create-react-app": "^4.1.2",
+    "@storybook/react": "^6.5.9",
+    "lerna": "^4.0.0"
+  }
+}
