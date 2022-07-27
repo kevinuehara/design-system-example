@@ -8,7 +8,8 @@
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
     "start": "lerna run --parallel start",
-    "dev": "start-storybook -p 5555"
+    "doc": "start-storybook -p 5555",
+    "graph": "npx nx graph"
   },
   "devDependencies": {
     "@storybook/addon-docs": "^6.5.9",
