@@ -1,8 +1,8 @@
 {
   "name": "@design-system/tokens",
   "version": "1.0.0",
-  "description": "> TODO: description",
-  "author": "Kevin Uehara <kevin.uehara@ifood.com.br>",
+  "description": "Design System Tokens Example",
+  "author": "uehara.kevin@gmail.com",
   "homepage": "",
   "license": "ISC",
   "main": "dist/index.js",

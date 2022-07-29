@@ -1,11 +1,12 @@
-# `tokens`
+# `@design-system/tokens`
 
-> TODO: description
+Module for Tokens of Design System Example.
+To use as dependency of your project use `@design-system/tokens: "*"` on your `package.json`
 
 ## Usage
 
 ```
-const tokens = require('tokens');
+import { colors } from '@design-system/tokens';
 
-// TODO: DEMONSTRATE API
+export const Example = () => <h1 colors={colors.primary}></h1>;
 ```

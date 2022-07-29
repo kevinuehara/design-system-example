@@ -1,7 +1,7 @@
 {
   "name": "@design-system/components",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "Components for Design System Example",
   "author": "Kevin Uehara",
   "license": "MIT",
   "main": "dist/index.js",

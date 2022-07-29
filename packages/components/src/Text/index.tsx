@@ -8,7 +8,7 @@ export interface TextProps {
 
 export const Text = ({ value }: TextProps) => {
   return (
-    <S.CustomText color={colors.primary} fontSize={fontSize.large}>
+    <S.CustomText color={colors.black} fontSize={fontSize.large}>
       {value}
     </S.CustomText>
   )
